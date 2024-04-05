@@ -73,10 +73,9 @@ jobs:
       - name: DoL
         uses: actions/checkout@v4
         with:
-          repository: Vrelnir/degrees-of-lewdity
+          repository: Clarlfy/Dol
           path: DoL
           ref: master
-          github-server-url: 'https://gitgud.io'
           submodules: recursive
 
 
